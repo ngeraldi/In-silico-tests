@@ -11,8 +11,10 @@ https://www.dropbox.com/s/v0oye0vqfvj7x48/ncbi_rbcl_dada_lineage_rbclmini_insili
 Multipl 18s primers, refernce library was Silva V132, in silico test using below 18s primers
 All data:
 https://www.dropbox.com/s/1xbwuxznjr94ya1/Silva132_dada_and_silva_lineage_wprimerinfo_all.csv?dl=0
+
 Data with Bacteria removed:
 https://www.dropbox.com/s/i7wnytvn2c9n4zs/Silva132_dada_and_silva_lineage_wprimerinfo_no_bacteria.csv?dl=0
+
 Metazoan data with addition data on "marine species" as determined by Worms:
 https://www.dropbox.com/s/rb05tl1b8hiohxc/Silva132_dada_and_silva_lineage_metaz_worms_18sprims.csv?dl=0
 
