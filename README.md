@@ -19,7 +19,7 @@ Metazoan data with addition data on "marine species" as determined by Worms:
 https://www.dropbox.com/s/rb05tl1b8hiohxc/Silva132_dada_and_silva_lineage_metaz_worms_18sprims.csv?dl=0
 
 
-Premers used:
+Primers used:
 # vert
 PRIMER1=ACTGGGATTAGATACCCC
 PRIMER2=TAGAACAGGCTCCTCTAG
